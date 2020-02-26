@@ -2,4 +2,4 @@
 
 Hi,
 
-Today is Frb 26, 2020.
+Today is Feb 26, 2020.
